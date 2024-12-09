@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Developement
 - 🌱 I’m currently focused on improving my web dev skills and learning new frameworks.
 - 💞️ I’m looking to collaborate on responsive web designs
-- 📫 How to reach me - email: ruellabudhoo@outlook.com
+- 📫 How to reach me - email: ruesbudhoo@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I once got stung by a jellyfish (extremely unpleasent).
 
